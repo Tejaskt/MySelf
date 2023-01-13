@@ -4,7 +4,7 @@
 - 👀 I’m Studing in It Field.
 - 🌱 I’m currently learning Android Development.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : tejasktgeetanjali88@gmail.com
 - Taking Graduation in BscIt field at Geetanjali Group Of Collage , Saurastra University.
 
 <!---
